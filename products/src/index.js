@@ -1,4 +1,4 @@
-import faker from 'faker';
+import * as faker from 'faker';
 
 const array = [1,2,3,4,5];
 
@@ -10,4 +10,4 @@ const names = array
     }
 )
 
-document.querySelector('#products').innerHTML = names.join('')
+document.querySelector('#test-products').innerHTML = names.join('')

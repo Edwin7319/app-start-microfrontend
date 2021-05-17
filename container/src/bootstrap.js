@@ -1,3 +1,3 @@
 import 'products/ProductsIndex';
 
-console.log('Container app');
+console.log('Container works !!! !');
